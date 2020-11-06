@@ -24,6 +24,9 @@ gathered_documentation += f"Last updated: {date} for VisCon version {version}.\n
 root = "documentation"
 print("Gathering documentation")
 for file in sorted(os.listdir(root)):
+	if file.endswith(".md") == False:
+		print(f"Skpping {file}.")
+		continue
 	print(f"Reading {file}.")
 	with open(os.path.join(root, file)) as f:
 		gathered_documentation += f.read()
