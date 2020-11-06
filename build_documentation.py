@@ -23,7 +23,7 @@ gathered_documentation += f"Last updated: {date} for VisCon version {version}.\n
 
 root = "documentation"
 print("Gathering documentation")
-for file in os.listdir(root):
+for file in sorted(os.listdir(root)):
 	print(f"Reading {file}.")
 	with open(os.path.join(root, file)) as f:
 		gathered_documentation += f.read()
