@@ -28,6 +28,9 @@ for file in os.listdir(root):
 		gathered_documentation += f.read()
 print("Done gathering documentation")
 
+print("Downloading pandoc")
+pypandoc.download_pandoc(version="2.10.1")
+
 print("Converting markdown documentation to html")
 pypandoc.convert_text(gathered_documentation, "html", "markdown-blank_before_blockquote-blank_before_header-escaped_line_breaks-grid_tables-multiline_tables+pipe_tables-simple_tables-space_in_atx_header-table_captions+tex_math_dollars+hard_line_breaks", ("-s", "--wrap=preserve", "--mathml", "-p", "--atx-headers"), "utf-8", "documentation.html")
 
