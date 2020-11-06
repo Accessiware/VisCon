@@ -1,0 +1,49 @@
+name: Build Documentation For VisCon
+
+on:
+  push:
+    branches: [ $default-branch ]
+    tags:
+    - "*"
+
+
+jobs:
+  build_documentation:
+    name: Build Documentation
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: olegtarasov/get-tag@v2
+      id: tagName
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8.6
+        architecture: x86
+    - name: Download dependencies
+      run: |
+        sudo apt--get install pandoc
+        pip install -U pip
+        pip install pypandoc
+    - name: Gather and convert documentation
+      run: python build_documentation.py $GIT_TAG_NAME
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: $GIT_TAG_NAME
+        release_name: Release $GIT_TAG_NAME
+        draft: false
+        prerelease: false
+    - name: Upload Release Asset
+      id: upload-release-asset 
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./documentation.html
+        asset_name: documentation.html
+        asset_content_type: application/html
