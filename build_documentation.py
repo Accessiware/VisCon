@@ -25,7 +25,7 @@ root = "documentation"
 print("Gathering documentation")
 for file in sorted(os.listdir(root)):
 	if file.endswith(".md") == False:
-		print(f"Skpping {file}.")
+		print(f"Skipping {file}.")
 		continue
 	print(f"Reading {file}.")
 	with open(os.path.join(root, file)) as f:
