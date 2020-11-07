@@ -1,6 +1,6 @@
 # appendixes
 
-# Appendix 1: An introduction to Markdown {#appendix1}
+# Appendix 1: An introduction to Markdown {markdown-intro} {#appendix1}
 
 The purpose of Markdown is to make formatted documents easy to read. Markdown was invented by [John Gruber](https://daringfireball.net/projects/markdown/)
 
