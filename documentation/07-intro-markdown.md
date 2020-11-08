@@ -1,3 +1,4 @@
+
 # appendixes
 
 # Appendix 1: An introduction to Markdown {#markdown-intro}
@@ -12,6 +13,7 @@ On this site, you will find the philosophy behind Markdown and a general syntax 
 Do not try to learn it all, but instead search for the format elements you want, and take it in small steps.
 
 And best of all: Contact us or someone you may know who can assist you with Markdown if you need it.
+
 
 ## Useful Markdown resources
 
