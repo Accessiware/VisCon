@@ -1,3 +1,4 @@
+
 # Credits
 
 * Coding, design and programming: Accessiware, Nicklas Tegner
@@ -5,7 +6,7 @@
 * Documentation: Thomas Byskov Dalgaard
 * Our wonderful beta testers:
 
-	* Søren Jensen
+	* SÃ¸ren Jensen
 	* Annie Skov Nielsen
 
 

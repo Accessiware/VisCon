@@ -1,3 +1,4 @@
+
 # Working with documents
 
 In this chapter we will discuss some of the more advanced features in VisCon. We will begin by explaining how to import and export documents, then you will learn how to work with multiple documents and how to preview one or more documents. At last we will look at the preferences dialog

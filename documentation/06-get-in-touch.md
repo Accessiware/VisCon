@@ -1,3 +1,4 @@
+
 # Get in touch
 
 In this chapter you will find all the different ways to contact us. We really want to hear from you!
@@ -30,4 +31,3 @@ or send us an email directly at:
 <viscon@accessiware.com>
 
 You can also tweet us at: [Accessiware](https://twitter.com/accessiware)
-
