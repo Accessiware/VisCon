@@ -1,4 +1,4 @@
-# Overview of VisCon Markdown
+# VisCon flavored Markdown {#vc-markdown}
 
 VisCon can generally use the common form of markdown, so in the vast majority of cases you will probably not experience problems when checking your work for errors. If you are accustomed to writing Markdown, however, we have compiled a list of small changes that you should be aware of as you write. We've added examples to help you see how you can check your Markdown formatting. For Most examples, you can see how the result of the conversion would look directly in your Web browser.
 
