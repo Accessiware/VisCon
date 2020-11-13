@@ -6,8 +6,5 @@
 * Documentation: Thomas Byskov Dalgaard
 * Our wonderful beta testers:
 
-	* SÃ¸ren Jensen
+	* Søren Jensen
 	* Annie Skov Nielsen
-
-
-

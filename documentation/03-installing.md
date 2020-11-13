@@ -1,5 +1,5 @@
 
-# Installing VisCon
+# Install and update VisCon
 
 VisCon is available for both Windows and Mac OS.
 
@@ -38,3 +38,8 @@ To install VisCon on Mac OS, follow these steps:
 	Note: If you are using VoiceOver (the screenreader on Mac OS) you will need to press VoiceOver-shift-M to bring op the context menu and from here select "Open." Now confirm that you want to run VisCon, by locating the "Open" button and activate it with VoiceOver-spacebar..
 
 Congratulations! You can now start using VisCon.
+
+## Update VisCon
+
+VisCon will automatically search for updates each time the application is started. If an update is found, VisCon will download and install it automatically.
+
