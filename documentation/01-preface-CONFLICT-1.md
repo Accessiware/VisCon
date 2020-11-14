@@ -1,4 +1,0 @@
-
-# Preface
-
-Please note that this version of VisCon is a concept release. This means that the program is fully functional, and we really want you to give it a testdrive. This release is focused on showing our ideas and a concept of what VisCon can do. We have plans for future versions already, but we really need feedback from users of VisCon, so we can spend time on the features you want. Therefor we decided to make this first release as a concept release, so you can get the concepts and ideas on how VisCon is intended. If you have any feedback, feature request or you have found a bug, then please contact us! We can't wait to hear from you!

@@ -1,4 +1,5 @@
 
+
 # Install and update VisCon {#install}
 
 VisCon is available for both Windows and Mac OS.
@@ -45,4 +46,5 @@ Congratulations! You can now start using VisCon.
 
 ## Update VisCon
 
+<<<<<<< HEAD
 VisCon will automatically search for updates each time the application is started. If an update is found, VisCon will download and install it automatically. You can always read the changelog via the help menu when VisCon has ben updated.

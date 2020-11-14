@@ -8,4 +8,3 @@
 6. (Credits][#credits)
 7. [Appendix 1: An introduction to Markdown](#markdown-intro)
 
-
