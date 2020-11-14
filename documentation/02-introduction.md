@@ -1,18 +1,18 @@
 
-# Introduction
+# Introduction {#introduction}
 
 Thank you for your interest in VisCon. We hope you will find it useful in your day-to-day tasks.
 
 ## How to read this manual
 
 This paragraph will explain the structure of this manual.
-In the next chapter ["Installing VisCon"](#installing-VisCon) you will learn how to install VisCon on to your computer.
+In the next chapter ["Installing VisCon"](#install) you will learn how to install VisCon on to your computer.
 
-In the chapter ["Getting started with VisCon"](#getting-started-with-VisCon) we will dive into VisCon and explain the menus and how VisCon works in general.
+In the chapter ["Getting started with VisCon"](#getting-started) we will dive into VisCon and explain the menus and how VisCon works in general.
 
 In the chapter ["Working with documents"](#working-with-documents) you will learn about the more sophisticated tools VisCon offer such as working with multiple documents, change preferences, watching document statistics and more.
 
-In the appendix 1 "Introduction to Markdown"](#appendix-1) you will find additional information about the Markdown syntax. This appendix is a must read if Markdown is all new to you.
+In the appendix 1 "Introduction to Markdown"](#intro-markdown) you will find additional information about the Markdown syntax. This appendix is a must read if Markdown is all new to you.
 
 In Appendix 2 ["Version history"][#changelog)
 ## What is VisCon?

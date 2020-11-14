@@ -1,5 +1,5 @@
 
-# Get in touch
+# Get in touch {#get-in-touch}
 
 In this chapter you will find all the different ways to contact us. We really want to hear from you!
 
