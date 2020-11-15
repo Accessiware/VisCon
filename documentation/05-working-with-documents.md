@@ -1,5 +1,5 @@
 
-# Working with documents {#working-with-documents}
+# Working with documents
 
 In this chapter we will discuss some of the more advanced features in VisCon. We will begin by explaining how to import and export documents, then you will learn how to work with multiple documents and how to preview one or more documents. At last we will look at the preferences dialog
 
@@ -68,7 +68,7 @@ Let's say you want to make an email with headings and a bulleted list. Just writ
 
 Note: VisCon will always clear the files you preview in your web browser as soon as you quit VisCon and shut your browser down. No data is sent outside your computer, so previewing a document can be done even if you have no internet connection.
 
-## Preferences dialog {#viscon-preferences}
+## Preferences dialog {#VisCon-preferences}
 
 You can customise VisCon through the preferences dialog. The categories are placed in a combobox.
 The preferences dialog consists of the following categories which are explained in the next paragraphs. After setting the preferences the way you like, simply press the "OK" button to save your changes, or press "Cancel" to discard all the changes you have made.
@@ -77,7 +77,6 @@ The preferences dialog consists of the following categories which are explained 
 
 The general preferences consists of the following settings:
 
-* Show changelog after updating. If this checkbox is checked VisCon will automatically display the changelog after an update has ben installed.
 * Enable spell checker: If this checkbox is checked it is possible to spell check documents in VisCon.
 
 	Note: This is currently only available on the Mac OS version of VisCon.
