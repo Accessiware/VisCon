@@ -6,6 +6,9 @@ on:
     tags:
     - "*"
 
+defaults:
+  run:
+    shell: bash
 
 jobs:
   build_documentation:
@@ -13,8 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: olegtarasov/get-tag@v2
-      id: tagName
+    - name: Set tag
+      run: |
+        echo "GIT_TAG_NAME=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
