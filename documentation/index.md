@@ -1,3 +1,6 @@
+---
+Title: VisCon documentation
+
 # VisCon documentation
 
 Here is the documentation for VisCon.
@@ -13,5 +16,5 @@ Remember, if you have any questions then please [contact us](https://visconapp.c
 4. [Working with documents](05-working-with-documents)
 5. [Get in touch](06-get-in-touch)
 6. (Credits](07-credits)
-7. [Appendix 1: An introduction to Markdown](08-intro-markdown)
+7. [Appendix 1: An introduction to Markdown](08-intro-Markdown)
 
