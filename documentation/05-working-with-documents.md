@@ -12,7 +12,7 @@ You import a document by doing the following:
 3. Choose "Open" or if you are using the keyboard press enter/return on the filename.
 4. Now the file is opened and imported into VisCon.
 
-As soon as you open a supported file format that isn't plain text (.txt or any markdown format) VisCon will recognize the file format and import it. When VisCon imports a document it will convert it from its format into Markdown. The result is that you will see the converted document inside VisCon after a few seconds. Note that fonts and other special formating is ignored at the moment.
+As soon as you open a supported file format that isn't plain text (.txt or any Markdown format) VisCon will recognize the file format and import it. When VisCon imports a document it will convert it from its format into Markdown. The result is that you will see the converted document inside VisCon after a few seconds. Note that fonts and other special formating is ignored at the moment.
 
 You may wonder why VisCon automatically imports your document and converts it into Markdown. The reason for doing so is for ensuring that all the structure is stored even after the conversion. By structure, we are specifically referring to headings, lists, links, paragraphs and so on.
 

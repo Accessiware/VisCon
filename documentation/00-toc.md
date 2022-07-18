@@ -6,5 +6,5 @@
 4. [Working with documents](#working-with-documents)
 5. [Get in touch](#get-in-touch
 6. (Credits][#credits)
-7. [Appendix 1: An introduction to Markdown](#markdown-intro)
+7. [Appendix 1: An introduction to Markdown](#Markdown-intro)
 

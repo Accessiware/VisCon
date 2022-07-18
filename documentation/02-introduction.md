@@ -6,15 +6,18 @@ Thank you for your interest in VisCon. We hope you will find it useful in your d
 ## How to read this manual
 
 This paragraph will explain the structure of this manual.
-In the next chapter ["Installing VisCon"](#install) you will learn how to install VisCon on to your computer.
+In the next chapter ["Installing VisCon"](03-installing) you will learn how to install VisCon on to your computer.
 
-In the chapter ["Getting started with VisCon"](#getting-started) we will dive into VisCon and explain the menus and how VisCon works in general.
+In the chapter ["Getting started with VisCon"](04-getting-started) we will dive into VisCon and explain the menus and how VisCon works in general.
 
-In the chapter ["Working with documents"](#working-with-documents) you will learn about the more sophisticated tools VisCon offer such as working with multiple documents, change preferences, watching document statistics and more.
+In the chapter ["Working with documents"](05-working-with-documents) you will learn about the more sophisticated tools VisCon offer such as working with multiple documents, change preferences, watching document statistics and more.
 
-In the appendix 1 "Introduction to Markdown"](#intro-markdown) you will find additional information about the Markdown syntax. This appendix is a must read if Markdown is all new to you.
+In the chapter: ["Get in touch"](06-get-in-touch) you will find all contact and support information about VisCon.
+Last in the manual you will find different appendixes. These can be read at any time.
 
-In Appendix 2 ["Version history"][#changelog)
+In the appendix 1 "Introduction to Markdown"](08-intro-Markdown) you will find additional information about the Markdown syntax. This appendix is a must read if Markdown is all new to you.
+
+
 ## What is VisCon?
 
 VisCon is at its core, a word processing program. The difference between VisCon and other word processing programs is that VisCon uses a markup language to format your documents, which may sound a little advanced, but it is quite easy to learn in a short time, and there are several benefits  taking advantage of this Model
@@ -29,7 +32,7 @@ VisCon is built around the Markdown markup language. Markdown is a simple way to
 
 All of this documentation has been prepared in Markdown in VisCon. In Appendix 1 you will find a general introduction to Markdown and useful external resources which may help you learn the basics of Markdown.
 
-To illustrate how simple this markdown markup language is, see the following example.
+To illustrate how simple this Markdown markup language is, see the following example.
 
 Here we have an ordered list with three  items.
 
