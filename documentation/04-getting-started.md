@@ -3,7 +3,7 @@
 
 This chapter will teach you about various basic features and capabilities of VisCon.
 
-To get started on how to work with Markdown in VisCon it is highly recommended that you read the appendix ["Appendix 1: An introduction to Markdown"](#markdown-intro) But do not try to master it all at once. Instead, try to do some specific tasks with VisCon. For instance. Try to make a document with a few headings, paragraphs and even a bulleted list. Use the chapter as a reference guide and just keep practicing. All of a sudden you will understand the basics, and it will be easier for you to get your documents done.
+To get started on how to work with Markdown in VisCon it is highly recommended that you read the appendix ["Appendix 1: An introduction to Markdown"](#Markdown-intro) But do not try to master it all at once. Instead, try to do some specific tasks with VisCon. For instance. Try to make a document with a few headings, paragraphs and even a bulleted list. Use the chapter as a reference guide and just keep practicing. All of a sudden you will understand the basics, and it will be easier for you to get your documents done.
 
 In the following paragraphs, we will explore the menus. In the next chapter ["Working with documents"](#working-with-documents) you will find detailed information about some of the concepts VisCon uses to import, export and preview documents.
 
@@ -16,7 +16,7 @@ Note: When you examine the menus in VisCon, you will see that there are hotkeys 
 The menu structure on Windows and Mac OS differ due to the way the operating systems work. On Mac OS you will therefore have a VisCon menu that will not be visible in the Windows version. The menu items in this menu are located in other menus in the Windows version.
 
 * About: Shows relevant information about VisCon such as which version you are running - and where to find VisCon on the web.
-* Preferences: Shows VisCon preferences. In here you can change the interface language and other settings. For more information see ([VisCon preferences](#viscon-preferences)
+* Preferences: Shows VisCon preferences. In here you can change the interface language and other settings. For more information see ([VisCon preferences](#VisCon-preferences)
 * Quit VisCon: Exits VisCon. If you have one or more open documents that are not already saved, VisCon will prompt you for each document before exiting. This is done so that you do not inadvertently lose any of your open documents.
 
 
@@ -30,7 +30,7 @@ The File menu contains the following menu items:
 	Note: If you select a document that is not a plain text document (with the txt extension) or a Markdown document (with the md extension), VisCon will automatically attempt to convert the document you open to Markdown.
 Thus, if you open a Word document with VisCon you will see a converted document showing how the document looks in Markdown. You can freely change the text and layout of the document accordingly. For more information see: [Importing documents into VisCon](#importing-documents-into-VisCon)
 * Save: Saves your current document. If the document does not already have a name, the "Save as " dialog box will open automatically.
-* Save As: presents you with a dialog box where you can give your document a name and choose its format. If you select Markdown or plain text, your document will remain unchanged. The only exception to this rule, is if you change the settings for text encoding under the [Advanced category](#advanced-preferences) in Preferences. If you save in any other supported format, VisCon will automatically convert your document to the format you have selected. For more information read [Exporting your document](#exporting-documents-from-viscon)
+* Save As: presents you with a dialog box where you can give your document a name and choose its format. If you select Markdown or plain text, your document will remain unchanged. The only exception to this rule, is if you change the settings for text encoding under the [Advanced category](#advanced-preferences) in Preferences. If you save in any other supported format, VisCon will automatically convert your document to the format you have selected. For more information read [Exporting your document](#exporting-documents-from-VisCon)
 * Exit: Exits VisCon. If you have one or more open documents that are not already saved, VisCon will prompt you for each document before exiting. This is done so that you do not inadvertently lose any of your open documents.
 
 	Note: This menu item is only shown in the Windows version of VisCon.
@@ -62,7 +62,7 @@ The Edit menu contains the following menu items:
 
 ## The Insert Menu
 
-This menu is useful when you are learning the Markdown markup language. However, to get the most out of the markup formating VisCon provides, use the appendix 1 "Introduction to Markdown"](#intro-markdown) as a reference guide.
+This menu is useful when you are learning the Markdown markup language. However, to get the most out of the markup formatting VisCon provides, use the appendix 1 "Introduction to Markdown"](08-intro-markdown) as a reference guide.
 
 The insert menu has the following items:
 
@@ -81,7 +81,7 @@ The insert menu has the following items:
 
 The tools menu contains the following items:
 
-* Preview: Previews the current document in your default web browser. This is a good way to watch your formating and structure before sharing or converting your document to an alternative format. For more information see: [Previewing a document from VisCon](#previewing-a-document-from-viscon)
+* Preview: Previews the current document in your default web browser. This is a good way to watch your formatting and structure before sharing or converting your document to an alternative format. For more information see: [Previewing a document from VisCon](#previewing-a-document-from-VisCon)
 * Document statistics: This is very useful if you are working on a document which has specific needs, such as a maximum of words, characters or number of pages. The document statistic window will show you the following details about your document:
 	- Lines: Shows the number of lines your document contains.
 	- Pages: Shows the number of pages.
@@ -92,6 +92,6 @@ The tools menu contains the following items:
 ## The Help Menu
 
 * About: Shows relevant information about VisCon such as which version you are running - and credits.
-* Preferences: Shows VisCon preferences. In here you can change the interface language and other settings. For more information see ([VisCon preferences](#viscon-preferences))
+* Preferences: Shows VisCon preferences. In here you can change the interface language and other settings. For more information see ([VisCon preferences](#VisCon-preferences))
 * What's new: Opens a webpage displaying all information about each released version of VisCon. This is very useful if you want to know what has changed since the last update. After an update this website will be launched automatically.
 * Go to our homepage: Will open your web browser of choice on the VisCon website at: <https://visconapp.com>
